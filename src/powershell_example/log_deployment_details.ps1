@@ -15,8 +15,7 @@ $json = @"
     "AgentName": "$(Agent.Name)",
     "Time":"$CurrentTime",
     "Action":"$(Action)",
-    "StoreName": "$(StoreName)",
-    "ExperienceName": "$(ExperienceName)",
+    "StoreName": "$(StoreName)"
   }
 ]
 "@
